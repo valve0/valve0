@@ -4,7 +4,7 @@ I'm Tom.
 I’m currently learning C# & WPF using the MVVM design pattern.
 
 Languages/Frameworks
-Python, C++, C, C#, SQL, WPF
+Python, C++, C, C#, SQL, WPF, Matlab
 
 Any questions, you can reach me on LinkedIn.
 
